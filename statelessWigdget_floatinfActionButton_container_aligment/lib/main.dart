@@ -70,15 +70,20 @@ class MyApp extends StatelessWidget
 }
 
 //runApp => Herhangi bir değer döndürmez.Widget ekler
+
 //StatelessWidget => bundan bir sınıf oluşturulursa buil override edilmek zorunda
 //return ederek başka bir widgetı return etmiş oluruz.
+
 //MaterialApp() => Ana yapıdır. Genellikşe uygulama bunla başlar
 //MaterialApp() => içinde home paremetresi kullanmak zorundayız
+
 //home: => paremetresinde Scaffold kullanıulır genellikle çünkü tüm widgetların yeri vardır
 //Scaffold => İçinde tüm widgetların yeri bulunur.Ana yapı olarak 2 tane;
 //appBar: Üst kısım ,içinde widget oluşturmak istediğimizde tittle: kullanılır
 //body: Ana kısım ,içinde widget oluşturmak istediğimizde child:(tek eleman için) kullanılır
+
 //Çok eleman için children[] kullanılır
+
 //floatingActionButton() => buttondur
 //ThemeData => Görsel Temanın yapılandırılması
 //TextStyle() => yazının rengi,boyutunu vb. şeyleri ayarladığımız yer
@@ -88,3 +93,4 @@ class MyApp extends StatelessWidget
 //Center() => içindeki childi ortalar
 //widthFactor: 2, => childinin genişliğinin 2 katı olur
 //heightFactor: 2, => childinin uzunluğunun 2 katı olur
+
