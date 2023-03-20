@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="images/proje.png" alt="alt text" width="320" height="500">
+<img src="images/proje.png" alt="PROJE eKRAN GÖRÜNTÜSÜ" width="320" height="500">
