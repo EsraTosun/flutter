@@ -1,4 +1,4 @@
-# iki_materialapp_ve_scaffold_widgetlarina_giris
+# MATERİALAPP AND SCAFFOLD WİDGETS ENTRY
 
 A new Flutter project.
 
