@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="assets/images/proje1.png" alt="PROJE EKRAN GÖRÜNTÜSÜ" width="320" height="500">     &nbsp;  &nbsp;   &nbsp;   &nbsp;    &nbsp;  &nbsp;   &nbsp;   &nbsp;         <img src="assets/images/proje2.png" alt="PROJE EKRAN GÖRÜNTÜSÜ" width="320" height="500">
+<img src="images/proje1.png" alt="PROJE EKRAN GÖRÜNTÜSÜ" width="320" height="500">     &nbsp;  &nbsp;   &nbsp;   &nbsp;    &nbsp;  &nbsp;   &nbsp;   &nbsp;         <img src="images/proje2.png" alt="PROJE EKRAN GÖRÜNTÜSÜ" width="320" height="500">
 
