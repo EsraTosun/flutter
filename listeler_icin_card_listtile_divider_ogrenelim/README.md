@@ -1,4 +1,4 @@
-# listeler_icin_card_listtile_divider_ogrenelim
+#  LİSTELER İÇİN CARD LİSTTİLE DİVİDER ÖĞRENELİM
 
 A new Flutter project.
 
