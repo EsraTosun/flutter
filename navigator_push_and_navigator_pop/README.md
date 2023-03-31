@@ -1,4 +1,4 @@
-# bir_navigator_push_and_navigator_pop
+# NAVİGATOR PUSH AND NAVİGATOR POP
 
 A new Flutter project.
 
