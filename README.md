@@ -1,5 +1,3 @@
-# flutter_burclar
-
 A new Flutter project.
 
 ## Getting Started
