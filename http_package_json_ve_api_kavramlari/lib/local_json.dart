@@ -12,6 +12,7 @@ class LocalJson extends StatefulWidget {
 }
 
 class _LocalJsonState extends State<LocalJson> {
+
   Future<List<Araba>> arabalarJsonOku() async {
     try {
       /* await Future.delayed(const Duration(seconds: 5), () {
@@ -107,3 +108,5 @@ class _LocalJsonState extends State<LocalJson> {
     );
   }
 }
+
+//İnternetten veri çektiğimizde daha kolau gerçekleşmesi için FutureBuilder kullanılır
